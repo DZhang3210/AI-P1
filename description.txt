@@ -1,0 +1,7 @@
+In this program I used AES in OFB mode to encrypt and decrypt a message. In order to implement this I used the cryptography library.
+
+The program will ask the user to enter a message to encrypt and then it will display the encrypted message and the initialization vector.
+
+Then the program will ask the user to enter the encrypted message and the initialization vector to decrypt the message.
+
+Finally the program will display the decrypted message.
